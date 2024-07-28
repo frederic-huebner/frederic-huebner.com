@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>frederic-huebner.com</title>
-    <link href="https://frederic-huebner.com/feed.xml" rel="self" />
-    <link href="https://frederic-huebner.com" />
+    <link href="https://frederic-huebner.github.io/frederic-huebner.com/feed.xml" rel="self" />
+    <link href="https://frederic-huebner.github.io/frederic-huebner.com" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Frederic Hübner</name>
     </author>
-    <id>https://frederic-huebner.com</id>
+    <id>https://frederic-huebner.github.io/frederic-huebner.com</id>
 
 </feed>
