@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "frederic-huebner.com",
+    "description": "",
+    "home_page_url": "https://frederic-huebner.com",
+    "feed_url": "https://frederic-huebner.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Frederic Hübner"
+    },
+    "items": [
+    ]
+}
